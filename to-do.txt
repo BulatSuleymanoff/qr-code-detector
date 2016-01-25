@@ -1,0 +1,3 @@
+- add machine learning algorithms
+- improve finder-pattern detection 
+  (false positive if there are 3 circles instead of 3 squares)
